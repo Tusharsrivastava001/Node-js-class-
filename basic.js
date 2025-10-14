@@ -13,6 +13,10 @@ let greet=(a,b)=>{return a+b}; //this is the arror function yrr
 //callback me use hote 
 //event handlin me use hote hai
 
+//const 
+//must be initilize with the value
+//cannot be reassig
+
 hello();
 arg("htushat");
 console.log(add(2,88));
